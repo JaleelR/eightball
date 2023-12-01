@@ -1,0 +1,23 @@
+.eightball{
+   display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.question{ 
+    display: flex;
+    align-items: center;
+    color: white; 
+ justify-content: center;
+    border-radius: 50%;    
+    width: 400px;
+    height: 400px;
+    
+}
+
+
+button{
+    margin: 2%;
+   width:  100px;
+
+}
